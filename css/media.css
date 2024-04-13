@@ -1,0 +1,733 @@
+/* as8ar mn 640 */
+
+/* sm */
+@media (min-width: 200px) { 
+    .nav-links ul{
+        display: none;
+    }
+    .nav-links i{
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        color: #fff;
+        padding-top: 20px;
+    }
+    
+.nav-logo{
+    width: 30%;
+    margin: 10px ;
+    float: left;
+}
+ }
+@media (min-width: 300px) {
+    .nav-links ul{
+        display: none;
+    }
+    .nav-links i{
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        color: #fff;
+        padding-top: 20px;
+    }
+    
+.nav-logo{
+    width: 30%;
+    margin: 10px ;
+    float: left;
+}
+  }
+@media (min-width: 400px) { 
+    .nav-links ul{
+        display: none;
+    }
+    .nav-links i{
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        color: #fff;
+        padding-top: 20px;
+    }
+    
+.nav-logo{
+    width: 30%;
+    margin: 10px ;
+    float: left;
+}
+ }
+@media (min-width: 500px) {  
+    .nav-links ul{
+        display: none;
+    }
+    .nav-links i{
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        color: #fff;
+        padding-top: 20px;
+    }
+    
+.nav-logo{
+    width: 30%;
+    margin: 10px ;
+    float: left;
+}
+}
+@media (min-width: 640px) { 
+    .nav-links ul{
+        display: none;
+    }
+    .nav-links i{
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        color: #fff;
+        padding-top: 20px;
+    }
+    
+.nav-logo{
+    width: 30%;
+    margin: 10px ;
+    float: left;
+}
+ }
+
+
+/* md */
+@media  (min-width: 768px) 
+{
+    .nav-links ul{
+        display: flex;
+    }
+    .nav-links i{
+        display: none;
+        justify-content: flex-end;
+        align-items: center;
+        color: #fff;
+        padding-top: 20px;
+    }
+    
+.nav-logo{
+    width: 15%;
+    margin: 10px ;
+    float: left;
+}
+}
+/* lg */
+@media  (min-width: 1024px) 
+{
+
+}
+/* xl */
+@media  (min-width: 1280px) 
+{
+
+}
+/* lg */
+@media  (min-width: 1536px) 
+{
+
+}
+
+
+
+
+/* as8ar mn 640 */
+
+/* sm */
+@media (min-width: 200px) { 
+    .home-cap h1{
+        font-size: 30px;
+    }
+    .home-cap p{ 
+        font-size: 16px;
+    }
+ }
+@media (min-width: 300px) { 
+    .home-cap h1{
+        font-size: 30px;
+    }
+    .home-cap p{ 
+        font-size: 16px;
+    }
+ }
+@media (min-width: 400px) { 
+    .home-cap h1{
+        font-size: 30px;
+    }
+    .home-cap p{ 
+        font-size: 16px;
+    }
+ }
+@media (min-width: 500px) { 
+    .home-cap h1{
+        font-size: 40px;
+    }
+    .home-cap p{ 
+        font-size: 20px;
+    }
+ }
+@media (min-width: 640px) { 
+    .home-cap h1{
+        font-size: 50px;
+    }
+    .home-cap p{ 
+        font-size: 20px;
+    }
+ }
+
+
+/* md */
+@media  (min-width: 768px) 
+{
+    .home-cap h1{
+        font-size: 50px;
+    }
+    .home-cap p{ 
+        font-size: 20px;
+    }
+}
+/* lg */
+@media  (min-width: 1024px) 
+{
+
+}
+/* xl */
+@media  (min-width: 1280px) 
+{
+
+}
+/* lg */
+@media  (min-width: 1536px) 
+{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* as8ar mn 640 */
+
+/* sm */
+@media (min-width: 200px) { 
+    .who-info, .who-img{
+        width: 100%;
+        float: none;
+ }
+ .who-img img{
+    width: 100%;
+}
+}
+@media (min-width: 300px) {
+    .who-info, .who-img{
+        width: 100%;
+        float: none;
+ }
+ .who-img img{
+    width: 100%;
+}
+}
+  
+@media (min-width: 400px) { 
+    .who-info, .who-img{
+        width: 100%;
+        float: none;
+ }
+ .who-img img{
+    width: 100%;
+}
+
+ }
+@media (min-width: 500px) { 
+    .who-info, .who-img{
+        width: 100%;
+        float: none;
+ }
+ .who-img img{
+    width: 100%;
+}
+}
+
+@media (min-width: 640px) {
+    .who-info, .who-img{
+        width: 100%;
+        float: none;
+ }
+ .who-img img{
+    width: 100%;
+}
+}
+
+
+/* md */
+@media  (min-width: 768px) 
+{
+    .who-info, .who-img{
+        width: 50%;
+        float: left;
+ }
+ .who-img img{
+    width: 80%;
+}
+
+}
+/* lg */
+@media  (min-width: 1024px) 
+{
+
+}
+/* xl */
+@media  (min-width: 1280px) 
+{
+
+}
+/* lg */
+@media  (min-width: 1536px) 
+{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*our location*/
+
+/* sm */
+@media (min-width: 200px) { 
+    .our-img, .our-info{
+        width: 100%;
+        float: none;
+    
+    }
+    .our-img img{
+        width: 100%;
+        padding-left: 0%;
+    }
+
+ }
+@media (min-width: 300px) { 
+    .our-img, .our-info{
+        width: 100%;
+        float: none;
+    
+    }
+    .our-img img{
+        width: 100%;
+        padding-left: 0%;
+    }
+ }
+@media (min-width: 400px) { 
+    .our-img, .our-info{
+        width: 100%;
+        float: none;
+    
+    }
+    .our-img img{
+        width: 100%;
+    }
+ }
+@media (min-width: 500px) {  
+    .our-img, .our-info{
+        width: 100%;
+        float: none;
+    
+    }
+    .our-img img{
+        width: 100%;
+    }
+}
+@media (min-width: 640px) { 
+    .our-img, .our-info{
+        width: 100%;
+        float: none;
+    
+    }
+    .our-img img{
+        width: 100%;
+    }
+ }
+
+
+/* md */
+@media  (min-width: 768px) 
+{
+    .our-img, .our-info{
+        width: 50%;
+        float: left;
+    
+    }
+    .our-img img{
+        width: 80%;
+        padding-left: 10%;
+    }
+}
+/* lg */
+@media  (min-width: 1024px) 
+{
+
+}
+/* xl */
+@media  (min-width: 1280px) 
+{
+
+}
+/* lg */
+@media  (min-width: 1536px) 
+{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*our baking*/
+
+/* sm */
+@media (min-width: 200px) { 
+    .bake-item{
+        width: 100%;
+       
+        float: none;
+    }
+ }
+@media (min-width: 300px) { 
+    .bake-item{
+        width: 100%;
+       
+        float: none;
+    }
+ }
+@media (min-width: 400px) {
+    .bake-item{
+        width: 100%;
+       
+        float: none;
+    }
+  }
+@media (min-width: 500px) { 
+    .bake-item{
+        width: 100%;
+       
+        float: none;
+    }
+ }
+@media (min-width: 640px) {  
+    .bake-item{
+        width: 100%;
+       
+        float: none;
+    }
+}
+
+
+/* md */
+@media  (min-width: 768px) 
+{
+    .bake-item{
+        width: 50%;
+       
+        float: left;
+    }
+}
+/* lg */
+@media  (min-width: 1024px) 
+{
+    .bake-item{
+        width: 33.33%;
+       
+        float: left;
+    }
+}
+/* xl */
+@media  (min-width: 1280px) 
+{
+
+}
+/* lg */
+@media  (min-width: 1536px) 
+{
+
+}
+
+
+
+
+
+
+
+
+
+/*Contact Information*/
+
+/* sm */
+@media (min-width: 200px) { 
+    .contact-information-item{
+        width: 100%;
+        float: none;
+    }
+    .contact-information-item li{
+        margin-bottom: 10px;
+    }
+    .contact-information-img{
+        width: 100%;
+        
+    }
+    .contact-information-img img{
+        width: 100%;
+    }
+ }
+@media (min-width: 300px) { 
+    .contact-information-item{
+        width: 100%;
+        float: none;
+    }
+    .contact-information-item li{
+        margin-bottom: 10px;
+    }
+    .contact-information-img{
+        width: 100%;
+        
+    }
+    .contact-information-img img{
+        width: 100%;
+    }
+ }
+@media (min-width: 400px) {
+    .contact-information-item{
+        width: 100%;
+        float: none;
+    }
+    .contact-information-item li{
+        margin-bottom: 10px;
+    }
+    .contact-information-img{
+        width: 100%;
+       
+    }
+    .contact-information-img img{
+        width: 100%;
+    }
+  }
+@media (min-width: 500px) { 
+    .contact-information-item{
+        width: 100%;
+        float: none;
+    }
+    .contact-information-item li{
+        margin-bottom: 10px;
+    }
+    .contact-information-img{
+        width: 100%;
+        overflow: hidden;
+    }
+    .contact-information-img img{
+        width: 100%;
+    }
+ }
+@media (min-width: 640px) {  
+    
+    .contact-information-item{
+        width: 50%;
+        float: left;
+    }
+    .contact-information-item li{
+        margin-bottom: 10px;
+    }
+    .contact-information-img{
+        width: 50%;
+        overflow: hidden;
+    }
+    .contact-information-img img{
+        width: 100%;
+    }
+}
+
+
+
+/* md */
+@media  (min-width: 768px) 
+{
+    .contact-information-item,.contact-information-img{
+      
+            width: 50%;
+            float: left;
+        }
+        .contact-information-item li{
+            margin-bottom: 10px;
+        }
+        .contact-information-img{
+            width: 50%;
+            overflow: hidden;
+        }
+        .contact-information-img img{
+            width: 100%;
+        }
+}
+
+/* lg */
+@media  (min-width: 1024px) 
+{
+    .contact-information-item,.contact-information-img{
+        width: 50%;
+        float: left;
+    }
+    .contact-information-item li{
+        margin-bottom: 0px;
+    }
+}
+/* xl */
+@media  (min-width: 1280px) 
+{
+
+}
+/* lg */
+@media  (min-width: 1536px) 
+{
+
+}
+
+
+
+
+
+
+
+
+/* as8ar mn 640 */
+
+/* sm */
+@media (min-width: 200px) { 
+    .about-us, .why-we-are-special, .opening-hours, .contact-details{
+        width: 100%;
+        float: left;
+    }
+        .icon-end{
+            display: flex;
+            justify-content:center;
+            align-items: center;
+       
+    }
+ }
+@media (min-width: 300px) {
+    .about-us, .why-we-are-special, .opening-hours, .contact-details{
+        width: 100%;
+        float: left;
+    }
+        .icon-end{
+            display: flex;
+            justify-content:center;
+            align-items: center;
+       
+    }
+ }
+@media (min-width: 400px) {
+    .about-us, .why-we-are-special, .opening-hours, .contact-details{
+        width: 100%;
+        float: left;
+    }
+        .icon-end{
+            display: flex;
+            justify-content:center;
+            align-items: center;
+       
+    }
+  }
+@media (min-width: 500px) {  
+    .about-us, .why-we-are-special, .opening-hours, .contact-details{
+        width: 100%;
+        float: left;
+    }
+        .icon-end{
+            display: flex;
+            justify-content:center;
+            align-items: center;
+       
+    }
+}
+@media (min-width: 640px) { 
+    .about-us, .why-we-are-special, .opening-hours, .contact-details{
+        width: 100%;
+        float: left;
+    }
+        .icon-end{
+            display: flex;
+            justify-content:center;
+            align-items: center;
+       
+    }
+ }
+
+
+/* md */
+@media  (min-width: 768px) 
+{
+    .about-us, .why-we-are-special, .opening-hours, .contact-details{
+        width: 25%;
+        float: left;
+    }
+        .icon-end{
+            display: flex;
+            justify-content:center;
+            align-items: center;
+       
+    }
+}
+/* lg */
+@media  (min-width: 1024px) 
+{
+
+}
+/* xl */
+@media  (min-width: 1280px) 
+{
+
+}
+/* lg */
+@media  (min-width: 1536px) 
+{
+
+}

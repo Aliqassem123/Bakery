@@ -1,0 +1,434 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+* p,a,span{
+    font-size: 17px;
+    font-weight: 400;
+    color: rgb(104, 104, 104);
+}
+* h1, h2,h3,h4,h5,h6 {
+    font-size:32px;
+    color: rgb(48, 48, 48);
+    font-weight: 400;
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+/*home*/
+
+.home{
+    background-image: url(../img/drew-coffman-1872.jpg);
+    height: 100vh;
+    background-size: cover;
+    overflow: auto;
+}
+
+.home .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.nav-logo{
+    width: 15%;
+    margin: 10px ;
+    float: left;
+}
+
+.nav-logo img{
+    width: 100%;
+}
+
+
+
+.nav-links ul{
+    float: right;
+    padding: 15px;
+    margin-top: 10px;
+   
+}
+.nav-links i{
+  display: none;
+}
+
+.nav-links a{
+    text-decoration: none;
+    color: #fff;
+    margin-left: 20px;
+    font-weight: 500;
+    font-size: 20px;
+    
+
+}
+
+.clr{
+    clear: both;
+}
+
+
+.home-cap{
+    text-align: center;
+    margin: auto;
+    padding-top: 50px;
+    width: 80%;
+}
+
+
+.home-cap h1{
+    margin: 40px 0;
+     font-size: 50px;
+     color: #fff;
+    
+}
+
+
+.home-cap p{
+    margin: 40px 0;
+    font-size: 20px;
+    color: #fff;
+}
+
+
+.contact,.Learn{
+
+    padding: 18px 22px;
+    color: #fff;
+    border-radius: 5PX;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.contact{
+
+    background-color: transparent;
+    border: 2px solid #fff;
+}
+
+.Learn{
+    background-color: #8E7754;
+    outline: none;
+    border: none;
+    margin-right: 10PX;
+    
+}
+
+.Learn:hover{
+    color: black;
+    background-color: #fff;
+}
+.contact:hover{
+    color: black;
+    background-color: #fff;
+}
+
+
+
+
+/*WHO We are*/
+
+.Who-we-are{
+    width: 500px;
+    height: 500px;
+}
+
+p span{
+    display: block;
+}
+
+.who-we-are{
+    width: 95%;
+    margin: auto ;
+   
+   }
+  
+
+.who-info{
+       
+       margin-top:40px ;
+      
+
+   }
+
+   .who-info h2{
+    font-size:32px;
+    color: rgb(48, 48, 48);
+    font-weight: 400;
+   
+   }
+
+   .who-info p,ul{
+    font-size: 17px;
+    width: 400;
+    color: rgb(104, 104, 104);
+    
+   }
+   
+   .who-info h2, p, ul{
+    margin: 10px 0 10px 40px ;
+     font-weight: 400;
+
+   }
+
+   .who-info, .who-img{
+       width: 50%;
+       float: left;
+   }
+   .who-img img{
+       width: 80%;
+   }
+   ul{
+       list-style-type: none;
+   }
+
+   ul img{
+    width: 40px;
+   }
+
+   ul img, ul li{
+    vertical-align: middle;
+   }
+
+
+
+
+
+
+   /*our location*/
+
+
+
+.our-info{
+    
+    margin-top: 100px;
+    
+  
+}
+
+
+
+.our-info h2{
+    font-size:32px;
+    color: rgb(48, 48, 48);
+    font-weight: 400;
+}
+
+.our-info p{
+    font-size: 17px;
+    font-weight: 400;
+    color: rgb(104, 104, 104);
+    margin-left: 0px;
+    
+    
+
+}
+
+.our-img, .our-info{
+    width: 50%;
+    float: left;
+
+}
+
+
+.our-img img{
+    width: 80%;
+    padding-left: 10%;
+}
+
+
+
+/*our baking*/
+
+.our-baking{
+   
+    text-align: center;
+    
+}
+
+
+
+.bake-item{
+    width: 33.333%;
+   
+    float: left;
+}
+.bake-item h3{
+    color: #000;
+}
+
+
+.our-baking h2{
+    font-size:32px;
+    color: rgb(48, 48, 48);
+    font-weight: 400;
+}
+
+
+.our-baking p{
+    font-size: 17px;
+    font-weight: 400;
+    color: rgb(104, 104, 104);
+    
+}
+
+
+.bake-item img{
+    width: 90%;
+}
+
+
+
+/*Contact Information*/
+
+.contact-information{
+    
+  
+}
+
+.contact-information-item{
+    margin-top: 40px;
+
+   
+}
+
+.contact-information-item h2{
+    font-size:32px;
+    color: rgb(48, 48, 48);
+    font-weight: 400;
+}
+.contact-information-item p{
+    font-size: 17px;
+    font-weight: 400;
+    color: rgb(104, 104, 104);
+    margin-left: 0px;
+    margin-right: 55px;
+}
+
+
+.contact-information-item img{
+    background-color: #8E7754;
+    border-radius: 50%;
+   
+}
+.contact-information-item,.contact-information-img{
+    width: 50%;
+    float: left;
+}
+.contact-information-img{
+    width: 80%;
+}
+
+.contact-information-item ul p {
+
+    display: inline-block;
+    
+    
+    margin-top: 20px;
+    
+}
+.contact-information-item ul{
+    margin-left: 0;
+}
+
+.tabl img{
+    width: 20px;
+
+}
+/*foter*/
+
+.footer{
+    background-color:#403d38;
+    
+}
+.footer .container{
+    background-color:#403d38;
+    
+}
+.footer img{
+    width: 20px;
+    vertical-align: middle;
+}
+.footer p,a{
+    padding: 10px 0px;
+    
+}
+.footer h3{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 200;
+   
+}
+
+.about-us{
+    background-color: #403d38;
+   
+}
+.why-we-are-special{
+    background-color: #403d38;
+  
+}
+.opening-hours{
+    background-color: #403d38;
+   
+}
+
+.contact-details{
+    background-color: #403d38;
+  
+}
+.contact-details a{
+    display: block;
+    text-decoration: none;
+    
+}
+.contact-details p{
+    margin-left: 0px;
+}
+
+.contact-details img{
+
+    width: 30px;
+}
+
+
+
+.about-us, .why-we-are-special, .opening-hours, .contact-details{
+    width: 25%;
+    float: left;
+    padding-bottom:10px ;
+   
+}
+
+
+
+.logo-end{
+    background-color: #353330;
+    text-align: center;
+    padding-top: 30px;
+}
+
+
+
+
+
+/*end*/
+
+
+.icon-end{
+    background-color: #353330;
+    padding-bottom: 30px;
+}
+
+.icon-end img{
+    width: 50px;
+}
+
+.facbook,.twitter,.googel,.linkedin{
+    
+}
